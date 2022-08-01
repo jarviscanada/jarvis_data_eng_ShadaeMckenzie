@@ -1,0 +1,96 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "President's Honour Roll(November 2021, February 2022)",
+        "GPA: 4.0/4.0"
+      ],
+      "degree": "Post Graduate Certificate : Business Analytics",
+      "department": "Business and Information Technology",
+      "duration": "2021-2022",
+      "school_name": "Cambrian College of Applied Arts And Technology"
+    },
+    {
+      "awards_achievements": [
+        "Honour Society (2015, 2016)",
+        "GPA: 3.8/4.2"
+      ],
+      "degree": "Bachelor of Science in Actuarial Science",
+      "department": "Mathematics",
+      "duration": "2014-2017",
+      "school_name": "The University of the West Indies"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_Shadae",
+  "highlighted_projects": [
+    {
+      "description": "Scheduled deliveries for volunteers and provided the best route to get to customers.",
+      "git_url": "https://replit.com/@Shadz580/Meals-on-Wheels-tester-2?v=1",
+      "name": "Web app for deliveries"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Recorded hardware specification of each node into a database so that servers can be managed. Also, monitored node resources usage in real time. All data collected was stored in a RDBMS database for the Linux Cluster Administration to generate reports for future resource planning purposes such as remove or add servers. The project was implemented using Linux command lines, bash scripts, postgreSQL and docker. The MVP was test on a single machine, where the functionalities for bash scripts were verified manually and query results were verified against test data for SQL scripts. The agent program was scheduled using crontab, source code was managed by GitHub and the database was provisioned with docker.",
+      "git_url": "/linux_sql",
+      "name": "Linux Cluster Resource Monitoring App"
+    }
+  ],
+  "name": "Shadae Mckenzie",
+  "others": [
+    {
+      "bullets": [
+        "Datacamp : Data Visualization For Everyone (2022)",
+        "Datacamp : Introduction to Power BI(2022)",
+        "Datacamp : Introduction to SQL(2022)",
+        "Datacamp : Intermediate Importing Data in Python (2021)",
+        "Datacamp : Web Scaping in Python (2021)"
+      ],
+      "title": "Certificates"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Worked on Linux/SQL project in order to collect data and store it in a RDBMS. This allowed the Linux Cluster Administration team to use the data to generate reports for future resource planning purposes.",
+      "duration": "2022-present",
+      "title": "Software Developer"
+    },
+    {
+      "company": "Sagicor Life Jamaica Limited",
+      "description": "Minimized risk exposure by determining premiums required to insure a particular risk for new clients, along with reviewing existing cases using crystal reports  within the group in order to reduce loss.",
+      "duration": "2018-2021",
+      "title": "Risk Officer"
+    },
+    {
+      "company": "Sagicor Life Jamaica Limited",
+      "description": "Analyzed loss ratios, benefit schedules and claims data using Excel and Power BI in order to provide sales team with insights. Created products for groups with less than 30 lives by acquiring data for existing from primary and secondary sources in order to automate product assignment for small groups, thus allowing for more time to be allocated to larger premium generating groups, hence increasing productivity. ",
+      "duration": "2017-2018",
+      "title": "Business Analysis Associate"
+    },
+    {
+      "company": "National Commercial Bank",
+      "description": "Employed data mining techniques such as data cleaning, clustering and machine learning to identify business opportunities such as promotional loans and credit cards.",
+      "duration": "2017-2017",
+      "title": "Data Analyst Intern"
+    }
+  ],
+  "skills": {
+    "Business Skills": [
+      "Documentation",
+      "Interpersonal",
+      "Problem solving",
+      "Presentation",
+      "Excel"
+    ],
+    "Technical Skills": [
+      "RDBMS/SQL",
+      "Data Modeling/Mapping",
+      "Data Analytics",
+      "Python",
+      "R",
+      "Microsoft Power BI"
+    ]
+  },
+  "summary": "I am Shadae and I've worked as a Risk Officer at Sagicor Life Jamaica. I have some background in data and business analysis with a post graduate certificate in Business Analytics. What really got me into the field, though, was the internship Idid at National Commercial Bank. Here, I worked with the Analytics team to provide insights for business opportunities. Throughout my career, I've noticed that I've always been good with numbers and handling data. For example, while at Sagicor Life Jamaica, I created new insurance products for groups under 30 lives by using data mining and analysis. The resulting products allowed for automatic assignment of insurance plans to smaller groups which provided more time and attention to be allocated to larger premium generating groups.I am passionate about data/business analytics because it helps a business to optimize its performance, maximize profit and make more strategically-guided decisions. Also, I have presentation and documentation skills, along with experience with RDBMS/SQL fundamentals and data analytics tools such as Python and R, which would make me a great fit for a data/business analyst role."
+}
